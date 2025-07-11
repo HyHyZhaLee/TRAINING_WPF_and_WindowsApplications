@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Github\\TRAINING_WPF_and_WindowsApplications\\FirstWindowsCppDesktopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DF6396-9E18-42CC-9581-12617933D72B}|FirstWindowsCppDesktopApp.vcxproj|D:\\Documents\\Github\\TRAINING_WPF_and_WindowsApplications\\FirstWindowsCppDesktopApp\\HelloWindowsDesktop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8DF6396-9E18-42CC-9581-12617933D72B}|FirstWindowsCppDesktopApp.vcxproj|solutionrelative:HelloWindowsDesktop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWindowsDesktop.cpp",
+              "DocumentMoniker": "D:\\Documents\\Github\\TRAINING_WPF_and_WindowsApplications\\FirstWindowsCppDesktopApp\\HelloWindowsDesktop.cpp",
+              "RelativeDocumentMoniker": "HelloWindowsDesktop.cpp",
+              "ToolTip": "D:\\Documents\\Github\\TRAINING_WPF_and_WindowsApplications\\FirstWindowsCppDesktopApp\\HelloWindowsDesktop.cpp",
+              "RelativeToolTip": "HelloWindowsDesktop.cpp",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-11T13:03:42.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

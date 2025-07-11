@@ -1,0 +1,3 @@
+﻿  HelloWindowsDesktop.cpp
+D:\Documents\Github\TRAINING_WPF_and_WindowsApplications\FirstWindowsCppDesktopApp\HelloWindowsDesktop.cpp(132,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  FirstWindowsCppDesktopApp.vcxproj -> D:\Documents\Github\TRAINING_WPF_and_WindowsApplications\FirstWindowsCppDesktopApp\x64\Debug\FirstWindowsCppDesktopApp.exe
